@@ -1,5 +1,5 @@
 {
-  "description": "The same as Workspace Indicator, but on the left like swaywm",
+  "description": "The same as Workspace Indicator, but on the left like swaywm.\n\nIt is a fork of Workspace Indicator by fmuellner.",
   "extension-id": "workspace-indicator-left",
   "gettext-domain": "gnome-shell-extension-workspace-indicator-left",
   "name": "Workspace Indicator Left",
