@@ -484,4 +484,5 @@ function enable() {
 /** */
 function disable() {
   _indicator.destroy();
+  _indicator = null;
 }
