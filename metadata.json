@@ -1,0 +1,9 @@
+{
+  "description": "The same as Workspace Indicator, but on the left like swaywm",
+  "extension-id": "workspace-indicator-left",
+  "gettext-domain": "gnome-shell-extension-workspace-indicator-left",
+  "name": "Workspace Indicator Left",
+  "shell-version": ["44"],
+  "uuid": "workspace-indicator-left@gmtborges.com",
+  "version": 1
+}
