@@ -4,6 +4,7 @@
   "gettext-domain": "gnome-shell-extension-workspace-indicator-left",
   "name": "Workspace Indicator Left",
   "shell-version": ["44"],
+  "url": "https://github.com/gustavomtborges/gnome-workspace-indicator-left.git",
   "uuid": "workspace-indicator-left@gmtborges.com",
   "version": 1
 }
